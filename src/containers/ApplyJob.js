@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useParams, useHistory} from 'react-router-dom';
-import useFetch from './useFetch';
+import useFetch from '../hooks/useFetch';
 const ApplyJob = () => {
     const params = useParams();
     const history = useHistory();
