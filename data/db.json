@@ -1,0 +1,86 @@
+{
+  "jobs": [
+    {
+      "title": "Job title1",
+      "body": "Job Body Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header",
+      "company": "Right click",
+      "tag": "online",
+      "id": 1
+    },
+    {
+      "title": "Job title2",
+      "body": "Job Body2 Click Insert and then choose the elements you want from the different galleries. Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme. Save time in Word with new buttons that show up where you need them. ",
+      "company": "Right click",
+      "tag": "online",
+      "id": 2
+    },
+    {
+      "title": "Job title3",
+      "body": "Job Body3 When you work on a table, click where you want to add a row or a column, and then click the plus sign. Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device. Video provides a powerful way to help you prove your point. When you click Online Video",
+      "company": "Right click",
+      "tag": "online",
+      "id": 3
+    },
+    {
+      "title": "job tItle here",
+      "body": "You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar.",
+      "company": "Right click",
+      "tag": "online",
+      "id": 4
+    },
+    {
+      "title": "my title",
+      "body": "Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document. To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries. Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme",
+      "company": "Right click",
+      "tag": "online",
+      "id": 5
+    },
+    {
+      "title": "Titler",
+      "body": "Description oo",
+      "company": "Right click",
+      "tag": "online",
+      "id": 6
+    },
+    {
+      "title": "INTERNS",
+      "body": "To develop the skill of young nigerians",
+      "company": "Right Click Solution",
+      "tag": "online",
+      "id": 7
+    },
+    {
+      "title": "kkk",
+      "body": "kkk",
+      "company": "kkkk",
+      "tag": "online",
+      "id": 8
+    }
+  ],
+  "jobsApplicant": [
+    {
+      "jobId": "6",
+      "applicantName": "Abbas",
+      "email": "abbas@gmail.com",
+      "dob": "2021-11-01",
+      "qualification": "Bsc Computer science",
+      "id": 1
+    },
+    {
+      "jobId": "1",
+      "applicantName": "lllll",
+      "email": "klk",
+      "dob": "2021-11-17",
+      "qualification": "lkkkk",
+      "id": 2
+    },
+    {
+      "jobId": "2",
+      "applicantName": "kppooo",
+      "email": "kkkjj",
+      "dob": "2021-01-17",
+      "qualification": "0999",
+      "id": 3
+    }
+  ]
+}
