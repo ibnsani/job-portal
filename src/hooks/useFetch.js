@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
-const useFetch = (url) =>{
-    const abortCont = new AbortController;
+const useFetch = (url) => {
+    const abortCont = new AbortController();
     const [jobs, setJobs] = useState(null);
     const [isPending,setIsPending] = useState(true);
     const [error, setError] = useState(null);
@@ -29,6 +29,7 @@ const useFetch = (url) =>{
             })
         }, 1000)
         return () => abortCont.abort();
+    // eslint-disable-next-line
     },[url])
 
     return {jobs, isPending, error}

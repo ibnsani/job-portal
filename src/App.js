@@ -2,13 +2,13 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 // import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
-import './App.css';
-import ApplicantsList from './ApplicantsList';
-import ApplyJob from './ApplyJob';
-import Create from './Create';
-import Home from './Home';
-import JobDetails from './JobDetails';
-import Navbar from './Navbar';
+import './assets/App.css';
+import ApplicantsList from './containers/ApplicantsList';
+import ApplyJob from './containers/ApplyJob';
+import Create from './containers/Create';
+import Home from './containers/Home';
+import JobDetails from './containers/JobDetails';
+import Navbar from './components/Navbar';
 
 const App = () => {
 

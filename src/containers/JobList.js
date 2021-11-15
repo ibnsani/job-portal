@@ -4,19 +4,15 @@ const JobList = ({jobs}) => {
     
     return ( 
         <div className="job-list">
-            {/* <div className="search">
-                <form>
-                    <input type="text" />
-                    <button>Saerch</button>
-                </form>
-            </div> */}
             <h2>Jobs List</h2>
             {jobs.map((job)=>(
                 <div className="job-preview" key = {job.id}>
                         <h2>Company: {job.company}</h2>
                         <i>{ job.title }</i>
-                        <p>{job.body.substring(0,200)}...</p>
-                        <span>{job.tag}</span>
+                        <p>{job.description.substring(0,200)}...</p>
+                        <span>{job.experience}</span>
+                        <span>{job.type}</span>
+                        <span>{job.profession}</span>
                     <Link to={`jobs/${job.id}`}> 
                         <button>VIEW MORE</button>
                     </Link>
